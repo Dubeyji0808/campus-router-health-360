@@ -1,0 +1,31 @@
+router_id,ticket_id,date,complaint_text
+R-1001,TCK-2000,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1002,TCK-2001,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1003,TCK-2002,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1004,TCK-2003,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1005,TCK-2004,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1006,TCK-2005,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1007,TCK-2006,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1008,TCK-2007,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1009,TCK-2008,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1010,TCK-2009,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1011,TCK-2010,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1012,TCK-2011,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1013,TCK-2012,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1014,TCK-2013,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1015,TCK-2014,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1016,TCK-2015,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1017,TCK-2016,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1018,TCK-2017,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1019,TCK-2018,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1020,TCK-2019,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1021,TCK-2020,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1022,TCK-2021,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1023,TCK-2022,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1024,TCK-2023,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1025,TCK-2024,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1026,TCK-2025,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1027,TCK-2026,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
+R-1028,TCK-2027,2026-08-08,Frequent disconnects during class hours and slow connection across the room.
+R-1029,TCK-2028,2026-08-08,Users report weak signal and intermittent packet loss near the busiest hours.
+R-1030,TCK-2029,2026-08-08,Wi-Fi is unstable during evening sessions with repeated reconnects.
